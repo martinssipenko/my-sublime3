@@ -1,0 +1,9 @@
+{
+    "phpcs_executable_path": "C:/PHP/phpcs.bat",
+    "phpcs_php_path": "C:/PHP/php.exe",
+    "phpcs_additional_args":
+	{
+		"--standard": "PSR-2"
+		//"--standard": "DNI"
+	}
+}
