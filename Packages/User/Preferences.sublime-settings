@@ -1,0 +1,31 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Phix Color Scheme/Phix Dark.tmTheme",
+	"default_line_ending": "unix",
+	"detect_slow_plugins": false,
+	"drag_text": false,
+	"file_exclude_patterns":
+	[
+		".project",
+		".tags",
+		".tags_sorted_by_file",
+		".phptidy-cache"
+	],
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"open_files_in_new_window": false,
+	"scroll_past_end": true,
+	"show_tab_close_buttons": false,
+	"soda_folder_icons": true,
+	"theme": "Soda Light 3.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true
+}

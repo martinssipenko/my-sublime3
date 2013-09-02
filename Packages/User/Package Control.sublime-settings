@@ -1,0 +1,23 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"ApacheConf.tmLanguage",
+		"BracketHighlighter",
+		"DocBlockr",
+		"GitGutter",
+		"INI",
+		"jQuery",
+		"jQuery Snippets pack",
+		"Laravel 4 Artisan",
+		"LineEndings",
+		"Open-Include",
+		"Phix Color Scheme",
+		"PHPUnit Completions",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"Theme - Soda",
+		"TrailingSpaces"
+	]
+}
